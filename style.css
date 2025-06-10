@@ -21,7 +21,7 @@ body {
 }
 
 .cabecalho-menu-links {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
     font-weight: 600;
     color: rgb(252, 242, 254);
@@ -84,7 +84,7 @@ body {
     font-size: 36px;
 
     /* Define a família de fontes como 'Krona One' com fallback para sans-serif */
-    font-family: 'Krona One', sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 
     /* Alinha o texto justificado */
     text-align: justify;
@@ -95,13 +95,13 @@ body {
  
     font-size: 24px;
 
-   font-family: 'Montserrat', sans-serif;
+   font-family:Georgia, 'Times New Roman', Times, serif;
 
     text-align: justify;
 }
 
 .apresentacao-links-conteudo {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: 400;
     font-size: 40px;
 }
@@ -120,7 +120,7 @@ body {
     font-size: 36px;
     padding: 15px 0;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 2px;
     text-transform: uppercase;
     position: relative;
@@ -166,7 +166,7 @@ body {
     font-size: 36px;
     padding: 15px 0;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 2px;
     text-transform: uppercase;
     position: relative;
@@ -212,7 +212,7 @@ body {
     font-size: 36px;
     padding: 15px 0;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 2px;
     text-transform: uppercase;
     position: relative;
@@ -258,7 +258,7 @@ body {
     font-size: 36px;
     padding: 15px 0;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 2px;
     text-transform: uppercase;
     position: relative;
@@ -304,7 +304,7 @@ body {
     font-size: 36px;
     padding: 15px 0;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 2px;
     text-transform: uppercase;
     position: relative;
@@ -348,7 +348,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     font-weight: 400;
     padding: 10px;
